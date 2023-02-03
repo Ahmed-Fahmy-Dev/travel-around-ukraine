@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TourReasonToChoose snapshot testing should TourReasonToChoose match snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <div />
+    <div>
+      <p>
+        1
+      </p>
+      <p>
+        test
+      </p>
+    </div>
+  </div>
+</DocumentFragment>
+`;

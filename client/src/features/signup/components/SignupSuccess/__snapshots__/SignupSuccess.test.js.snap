@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SignupSuccess snapshot test should SignupSuccess snapshot render 1`] = `
+<DocumentFragment>
+  <div>
+    <div>
+      <div>
+        <p>
+          Sign up Successfull
+        </p>
+        <div>
+          SUCCESS ICON
+        </div>
+      </div>
+    </div>
+    <div>
+      <p />
+      <p>
+        You can enjoy your shopping with us now.
+      </p>
+      <p />
+    </div>
+    <div>
+      <button>
+        Great !
+      </button>
+    </div>
+  </div>
+   
+</DocumentFragment>
+`;
+
+exports[`SignupSuccess snapshot test should SignupSuccess snapshot render null 1`] = `
+<DocumentFragment>
+  <div>
+    <div>
+      <div>
+        <p>
+          Sign up Successfull
+        </p>
+        <div>
+          SUCCESS ICON
+        </div>
+      </div>
+    </div>
+    <div>
+      <p />
+      <p>
+        You can enjoy your shopping with us now.
+      </p>
+      <p />
+    </div>
+    <div>
+      <button>
+        Great !
+      </button>
+    </div>
+  </div>
+   
+</DocumentFragment>
+`;

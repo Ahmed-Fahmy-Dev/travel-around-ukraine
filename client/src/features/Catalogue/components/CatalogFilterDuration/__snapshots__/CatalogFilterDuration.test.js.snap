@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CatalogFilterDuration snapshot test should CatalogFilterDuration match snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <div />
+  </div>
+</DocumentFragment>
+`;

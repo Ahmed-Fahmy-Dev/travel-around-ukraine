@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render BurgerMenu should BurgerMenu render 1`] = `
+<DocumentFragment>
+  <div>
+    <button>
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+        data-testid="MenuIcon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"
+        />
+      </svg>
+    </button>
+    <ul>
+      <li>
+        Home
+      </li>
+      <li>
+        Catalogue
+      </li>
+      <li>
+        LogIn
+      </li>
+      <li>
+        Cart
+      </li>
+      <li>
+        Favorites
+      </li>
+    </ul>
+  </div>
+</DocumentFragment>
+`;

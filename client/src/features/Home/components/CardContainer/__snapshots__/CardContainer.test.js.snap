@@ -1,0 +1,74 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card Container Snapshot test should CardContainer match snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <div
+      class="css-4b3544"
+    >
+      <h2>
+        Popular tours
+      </h2>
+      <a
+        href="/catalogue"
+      >
+        <h2>
+          View All
+        </h2>
+      </a>
+    </div>
+    <div
+      class="css-gn8ri4"
+    >
+      <button
+        class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorPrimary MuiIconButton-sizeMedium css-5jjyxr-MuiButtonBase-root-MuiIconButton-root"
+        id="previous"
+        tabindex="0"
+        type="button"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+          data-testid="ArrowForwardIosIcon"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M6.23 20.23 8 22l10-10L8 2 6.23 3.77 14.46 12z"
+          />
+        </svg>
+      </button>
+      <button
+        class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorPrimary MuiIconButton-sizeMedium css-fkmnqh-MuiButtonBase-root-MuiIconButton-root"
+        id="next"
+        tabindex="0"
+        type="button"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+          data-testid="ArrowForwardIosIcon"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M6.23 20.23 8 22l10-10L8 2 6.23 3.77 14.46 12z"
+          />
+        </svg>
+      </button>
+      <div
+        class="swiper swiper-initialized swiper-horizontal swiper-pointer-events mySwiper"
+      >
+        <div
+          class="swiper-wrapper"
+          style="transition-duration: 0ms; transform: translate3d(NaNpx, 0px, 0px);"
+        />
+        <div
+          class="swiper-pagination"
+        />
+        0
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

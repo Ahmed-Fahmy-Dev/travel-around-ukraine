@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CheckoutPage snapshot test should CheckoutPage match snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <p>
+      Checkout
+    </p>
+    <div>
+      CHECKOUT FORM
+    </div>
+  </div>
+</DocumentFragment>
+`;

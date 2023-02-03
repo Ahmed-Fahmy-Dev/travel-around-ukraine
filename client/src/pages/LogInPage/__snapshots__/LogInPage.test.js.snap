@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render LogInPage should LogInPage render 1`] = `
+<DocumentFragment>
+  <div>
+    <div>
+      <div
+        class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 css-1jmgxb8-MuiPaper-root"
+      >
+        <p>
+          Log In
+        </p>
+        <div />
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

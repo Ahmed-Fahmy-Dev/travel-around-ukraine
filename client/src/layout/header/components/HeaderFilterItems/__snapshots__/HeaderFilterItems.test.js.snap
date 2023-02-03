@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HeaderFilterItems snapshot testing should render HeaderFilterItems component 1`] = `
+<DocumentFragment>
+  <div>
+    <p>
+      No results found
+    </p>
+  </div>
+</DocumentFragment>
+`;

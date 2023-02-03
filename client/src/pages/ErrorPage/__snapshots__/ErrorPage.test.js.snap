@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Error page snapshot testing should Error page renders 1`] = `
+<DocumentFragment>
+  <div>
+    <div
+      class="css-j67klr"
+    >
+      <div>
+        <div
+          alt="uk-flag"
+          component="img"
+          src="/assets/images/404/heart.png"
+        />
+      </div>
+      <p>
+        404 page not found
+      </p>
+      <p>
+        Please, navigate to main page to plan your trip
+      </p>
+      <div
+        sx="[object Object]"
+      >
+        <button>
+          Home
+        </button>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render UserList should UserList render 1`] = `
+<DocumentFragment>
+  <div>
+    <li>
+      Roman's info
+    </li>
+    <ul>
+      <li>
+        Email: 
+      </li>
+      <li>
+        Rymarchuk@gmail.com 
+      </li>
+    </ul>
+    <ul>
+      <li>
+        Phone: 
+      </li>
+      <li>
+        38000000000 
+      </li>
+    </ul>
+    <ul>
+      <li>
+        Gender: 
+      </li>
+      <li>
+        male 
+      </li>
+    </ul>
+  </div>
+</DocumentFragment>
+`;

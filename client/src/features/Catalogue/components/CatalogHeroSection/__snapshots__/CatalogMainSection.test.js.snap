@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CatalogMainSection snapshot testing should CatalogMainSection match snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <div>
+      <p>
+        our tours
+      </p>
+    </div>
+  </div>
+</DocumentFragment>
+`;

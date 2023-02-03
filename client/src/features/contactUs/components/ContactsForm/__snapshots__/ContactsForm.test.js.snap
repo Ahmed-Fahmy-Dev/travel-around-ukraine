@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ContactsForm snapshot test should ContactsForm match snapshot 1`] = `
+<DocumentFragment>
+  <form
+    action="#"
+  >
+    <field />
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium css-1ey3g8u-MuiButtonBase-root-MuiButton-root"
+      margin="normal"
+      tabindex="0"
+      type="submit"
+    >
+      Subscribe
+      <span
+        class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+      />
+    </button>
+  </form>
+</DocumentFragment>
+`;

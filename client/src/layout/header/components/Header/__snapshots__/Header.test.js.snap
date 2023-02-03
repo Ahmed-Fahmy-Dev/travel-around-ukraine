@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render Header should Header render 1`] = `
+<DocumentFragment>
+  <div>
+    <header>
+      <div>
+        <div>
+          <a
+            aria-current="page"
+            class="active"
+            href="/"
+            style="text-decoration: none;"
+          >
+            <img
+              alt="logo"
+              height="50"
+              src="/assets/images/logo/logo.png"
+              width="65"
+            />
+          </a>
+          <div>
+            HeaderSearchField
+          </div>
+          <div>
+            BurgerMenu
+          </div>
+          <div>
+            TabletMenu
+          </div>
+        </div>
+      </div>
+    </header>
+  </div>
+</DocumentFragment>
+`;

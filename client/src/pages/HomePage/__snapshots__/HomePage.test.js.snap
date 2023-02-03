@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home page Snapshot test should HomePage match snapshot 1`] = `
+<DocumentFragment>
+  <section>
+    <div>
+      IMAGE CAROUSEL
+    </div>
+    <div>
+      <h1>
+        TRAVEL 
+        <span
+          class="heroHeaderHighlighted"
+        >
+          around
+        </span>
+      </h1>
+      <h1>
+        ukraine
+      </h1>
+      <button>
+        MUI COMPONENT
+      </button>
+    </div>
+  </section>
+  <section>
+    <div>
+      ABOUT UKRAINE
+    </div>
+  </section>
+  <section>
+    <div>
+      CARD CONTAINER
+    </div>
+  </section>
+</DocumentFragment>
+`;

@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CatalogFilterSeason snapshot test should CatalogFilterSeason match snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <label />
+    <div>
+      <label />
+      <label />
+      <label />
+      <label />
+    </div>
+  </div>
+</DocumentFragment>
+`;

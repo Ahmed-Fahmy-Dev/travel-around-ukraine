@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SignupForm snapshot test should SignupForm match snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <div>
+      <div>
+        User Info
+      </div>
+    </div>
+    <div>
+      <div>
+        Login Info
+      </div>
+    </div>
+  </div>
+  <form
+    action="#"
+  >
+    <div>
+      USER INFO FORM
+    </div>
+    <div>
+      <button>
+        Continue
+      </button>
+    </div>
+  </form>
+  <div>
+    SIGN UP SUCCESS
+  </div>
+</DocumentFragment>
+`;

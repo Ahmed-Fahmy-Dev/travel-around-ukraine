@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PaymentSuccess snapshot test should PaymentSuccess render modal window 1`] = `
+<DocumentFragment>
+  <div>
+    <h3>
+      <div>
+        <p>
+          Payment Successfull
+        </p>
+        <div>
+          ICON
+        </div>
+      </div>
+    </h3>
+    <div>
+      <p>
+        Your order number # will be shipped shortly.
+      </p>
+    </div>
+    <div>
+      <button>
+        Great !
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`PaymentSuccess snapshot test should PaymentSuccess render null 1`] = `
+<DocumentFragment>
+  <div>
+    <h3>
+      <div>
+        <p>
+          Payment Successfull
+        </p>
+        <div>
+          ICON
+        </div>
+      </div>
+    </h3>
+    <div>
+      <p>
+        Your order number # will be shipped shortly.
+      </p>
+    </div>
+    <div>
+      <button>
+        Great !
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

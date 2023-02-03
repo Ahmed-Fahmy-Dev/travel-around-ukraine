@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AlertModal snapshot test should AlertModal match snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <h3>
+      Alert modal
+    </h3>
+    <div>
+      <div>
+        It is a text content of alert modal
+      </div>
+    </div>
+    <div>
+      <button
+        type="button"
+      >
+        Cancel
+      </button>
+      <button
+        type="button"
+      >
+        Submit
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

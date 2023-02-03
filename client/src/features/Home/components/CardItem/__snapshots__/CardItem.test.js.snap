@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card Item Snapshot test should CardItem match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-s4pr79"
+  >
+    <h2>
+      100 $
+    </h2>
+    <h2>
+      name
+    </h2>
+    <div
+      class="css-1wyfxka"
+    >
+      <img
+        alt="test img"
+      />
+      <h2>
+        region region
+      </h2>
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall css-aib6je-MuiSvgIcon-root"
+        data-testid="ArrowForwardIosIcon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M6.23 20.23 8 22l10-10L8 2 6.23 3.77 14.46 12z"
+        />
+      </svg>
+    </div>
+  </div>
+</DocumentFragment>
+`;

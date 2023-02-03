@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CatalogMainFilter snapshot test should CatalogTourCard match snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <h3>
+      Filter
+    </h3>
+    <div>
+      <div>
+        <div>
+          CATALOGUE FILTER PRICE
+        </div>
+        <div>
+          CATALOGUE FILTER REGION
+        </div>
+      </div>
+      <div>
+        <div>
+          CATALOGUE FILTER TOURISTS
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
