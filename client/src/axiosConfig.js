@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const axiosConfig = axios.create({
-  baseURL: 'http://localhost:5000',
+  baseURL: 'https://travel-around-ukraine-production.up.railway.app',
 });
 
 axiosConfig.interceptors.request.use(
