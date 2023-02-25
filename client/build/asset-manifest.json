@@ -1,6 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f0f301e5.css",
+
     "main.js": "/static/js/main.11fe686c.js",
     "static/media/CoinsIcon.svg": "/static/media/CoinsIcon.0b6a116e5833af172dd239ae14f957ab.svg",
     "index.html": "/index.html",
@@ -10,5 +11,6 @@
   "entrypoints": [
     "static/css/main.f0f301e5.css",
     "static/js/main.11fe686c.js"
+
   ]
 }
